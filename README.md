@@ -1,7 +1,3 @@
-# Codeigniter 3 with HMVC
+# Online Admission System (Houdegbe North American University Benin Case Study)
 
-This is the combination between 3 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
-
-This version is already configured to work with HMVC, Eliminating the need to download the files HMVC on Bitbucket and copy to the Corresponding folders.
-
-Just download this version and start using.
+This is my final year project built with PHP Codeigniter HMVC Framework. It consists of three modules (Public, User and Admin)
