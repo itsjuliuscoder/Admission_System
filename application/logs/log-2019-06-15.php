@@ -720,3 +720,333 @@ DEBUG - 2019-06-15 21:08:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\ap
 DEBUG - 2019-06-15 21:08:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/templates/footer.php
 INFO - 2019-06-15 21:08:23 --> Final output sent to browser
 DEBUG - 2019-06-15 21:08:23 --> Total execution time: 0.4840
+INFO - 2019-06-15 21:11:02 --> Config Class Initialized
+INFO - 2019-06-15 21:11:02 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:11:02 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:11:02 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:11:02 --> URI Class Initialized
+INFO - 2019-06-15 21:11:03 --> Router Class Initialized
+INFO - 2019-06-15 21:11:03 --> Output Class Initialized
+INFO - 2019-06-15 21:11:03 --> Security Class Initialized
+DEBUG - 2019-06-15 21:11:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:11:03 --> Input Class Initialized
+INFO - 2019-06-15 21:11:03 --> Language Class Initialized
+INFO - 2019-06-15 21:11:03 --> Language Class Initialized
+INFO - 2019-06-15 21:11:03 --> Config Class Initialized
+INFO - 2019-06-15 21:11:03 --> Loader Class Initialized
+INFO - 2019-06-15 21:11:03 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:11:03 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:11:03 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:11:03 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:11:03 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:11:03 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:11:03 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:11:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:11:04 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:11:04 --> Model Class Initialized
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:11:04 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:11:04 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/templates/header.php
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/user/news_details.php
+DEBUG - 2019-06-15 21:11:04 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/templates/footer.php
+INFO - 2019-06-15 21:11:04 --> Final output sent to browser
+DEBUG - 2019-06-15 21:11:04 --> Total execution time: 2.0595
+INFO - 2019-06-15 21:11:14 --> Config Class Initialized
+INFO - 2019-06-15 21:11:14 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:11:14 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:11:14 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:11:14 --> URI Class Initialized
+INFO - 2019-06-15 21:11:14 --> Router Class Initialized
+INFO - 2019-06-15 21:11:14 --> Output Class Initialized
+INFO - 2019-06-15 21:11:14 --> Security Class Initialized
+DEBUG - 2019-06-15 21:11:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:11:14 --> Input Class Initialized
+INFO - 2019-06-15 21:11:14 --> Language Class Initialized
+INFO - 2019-06-15 21:11:14 --> Language Class Initialized
+INFO - 2019-06-15 21:11:14 --> Config Class Initialized
+INFO - 2019-06-15 21:11:14 --> Loader Class Initialized
+INFO - 2019-06-15 21:11:14 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:11:14 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:11:14 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:11:14 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:11:14 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:11:14 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:11:14 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:11:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:11:14 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:11:14 --> Model Class Initialized
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:11:14 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:11:14 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/templates/header.php
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/user/admission_news.php
+DEBUG - 2019-06-15 21:11:14 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/templates/footer.php
+INFO - 2019-06-15 21:11:14 --> Final output sent to browser
+DEBUG - 2019-06-15 21:11:14 --> Total execution time: 0.5790
+INFO - 2019-06-15 21:11:22 --> Config Class Initialized
+INFO - 2019-06-15 21:11:22 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:11:22 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:11:22 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:11:22 --> URI Class Initialized
+INFO - 2019-06-15 21:11:22 --> Router Class Initialized
+INFO - 2019-06-15 21:11:22 --> Output Class Initialized
+INFO - 2019-06-15 21:11:22 --> Security Class Initialized
+DEBUG - 2019-06-15 21:11:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:11:22 --> Input Class Initialized
+INFO - 2019-06-15 21:11:22 --> Language Class Initialized
+INFO - 2019-06-15 21:11:22 --> Language Class Initialized
+INFO - 2019-06-15 21:11:22 --> Config Class Initialized
+INFO - 2019-06-15 21:11:22 --> Loader Class Initialized
+INFO - 2019-06-15 21:11:22 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:11:22 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:11:22 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:11:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:11:22 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:11:22 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:11:22 --> Model Class Initialized
+DEBUG - 2019-06-15 21:11:22 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:11:22 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:11:22 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:11:22 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:11:22 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:11:22 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:11:22 --> Config Class Initialized
+INFO - 2019-06-15 21:11:22 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:11:22 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:11:22 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:11:22 --> URI Class Initialized
+INFO - 2019-06-15 21:11:22 --> Router Class Initialized
+INFO - 2019-06-15 21:11:22 --> Output Class Initialized
+INFO - 2019-06-15 21:11:22 --> Security Class Initialized
+DEBUG - 2019-06-15 21:11:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:11:22 --> Input Class Initialized
+INFO - 2019-06-15 21:11:22 --> Language Class Initialized
+INFO - 2019-06-15 21:11:22 --> Language Class Initialized
+INFO - 2019-06-15 21:11:22 --> Config Class Initialized
+INFO - 2019-06-15 21:11:22 --> Loader Class Initialized
+INFO - 2019-06-15 21:11:22 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:11:22 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:11:22 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:11:22 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:11:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:11:23 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:11:23 --> Model Class Initialized
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:11:23 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:11:23 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/header.php
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/login.php
+DEBUG - 2019-06-15 21:11:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/footer.php
+INFO - 2019-06-15 21:11:23 --> Final output sent to browser
+DEBUG - 2019-06-15 21:11:23 --> Total execution time: 0.2280
+INFO - 2019-06-15 21:11:59 --> Config Class Initialized
+INFO - 2019-06-15 21:11:59 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:11:59 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:11:59 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:11:59 --> URI Class Initialized
+INFO - 2019-06-15 21:11:59 --> Router Class Initialized
+INFO - 2019-06-15 21:11:59 --> Output Class Initialized
+INFO - 2019-06-15 21:11:59 --> Security Class Initialized
+DEBUG - 2019-06-15 21:11:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:11:59 --> Input Class Initialized
+INFO - 2019-06-15 21:11:59 --> Language Class Initialized
+INFO - 2019-06-15 21:11:59 --> Language Class Initialized
+INFO - 2019-06-15 21:11:59 --> Config Class Initialized
+INFO - 2019-06-15 21:11:59 --> Loader Class Initialized
+INFO - 2019-06-15 21:11:59 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:11:59 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:11:59 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:11:59 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:11:59 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:11:59 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:11:59 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:11:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:11:59 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:11:59 --> Model Class Initialized
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:11:59 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:11:59 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/header.php
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/register.php
+DEBUG - 2019-06-15 21:11:59 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/footer.php
+INFO - 2019-06-15 21:11:59 --> Final output sent to browser
+DEBUG - 2019-06-15 21:11:59 --> Total execution time: 0.3570
+INFO - 2019-06-15 21:12:01 --> Config Class Initialized
+INFO - 2019-06-15 21:12:01 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:12:01 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:12:01 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:12:01 --> URI Class Initialized
+INFO - 2019-06-15 21:12:01 --> Router Class Initialized
+INFO - 2019-06-15 21:12:01 --> Output Class Initialized
+INFO - 2019-06-15 21:12:01 --> Security Class Initialized
+DEBUG - 2019-06-15 21:12:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:12:01 --> Input Class Initialized
+INFO - 2019-06-15 21:12:01 --> Language Class Initialized
+INFO - 2019-06-15 21:12:01 --> Language Class Initialized
+INFO - 2019-06-15 21:12:01 --> Config Class Initialized
+INFO - 2019-06-15 21:12:01 --> Loader Class Initialized
+INFO - 2019-06-15 21:12:01 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:12:01 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:12:02 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:12:02 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:12:02 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:12:02 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:12:02 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:12:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:12:02 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:12:02 --> Model Class Initialized
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:12:02 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:12:02 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/header.php
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/login.php
+DEBUG - 2019-06-15 21:12:02 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/footer.php
+INFO - 2019-06-15 21:12:02 --> Final output sent to browser
+DEBUG - 2019-06-15 21:12:02 --> Total execution time: 0.2095
+INFO - 2019-06-15 21:12:13 --> Config Class Initialized
+INFO - 2019-06-15 21:12:13 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:12:13 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:12:13 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:12:13 --> URI Class Initialized
+INFO - 2019-06-15 21:12:13 --> Router Class Initialized
+INFO - 2019-06-15 21:12:13 --> Output Class Initialized
+INFO - 2019-06-15 21:12:13 --> Security Class Initialized
+DEBUG - 2019-06-15 21:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:12:13 --> Input Class Initialized
+INFO - 2019-06-15 21:12:13 --> Language Class Initialized
+INFO - 2019-06-15 21:12:13 --> Language Class Initialized
+INFO - 2019-06-15 21:12:13 --> Config Class Initialized
+INFO - 2019-06-15 21:12:13 --> Loader Class Initialized
+INFO - 2019-06-15 21:12:13 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:12:13 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:12:13 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:12:13 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:12:13 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:12:13 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:12:13 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:12:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:12:13 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:12:13 --> Model Class Initialized
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:12:13 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:12:13 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/header.php
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/register.php
+DEBUG - 2019-06-15 21:12:13 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/footer.php
+INFO - 2019-06-15 21:12:13 --> Final output sent to browser
+DEBUG - 2019-06-15 21:12:13 --> Total execution time: 0.5310
+INFO - 2019-06-15 21:12:23 --> Config Class Initialized
+INFO - 2019-06-15 21:12:23 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:12:23 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:12:23 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:12:23 --> URI Class Initialized
+INFO - 2019-06-15 21:12:23 --> Router Class Initialized
+INFO - 2019-06-15 21:12:23 --> Output Class Initialized
+INFO - 2019-06-15 21:12:23 --> Security Class Initialized
+DEBUG - 2019-06-15 21:12:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:12:23 --> Input Class Initialized
+INFO - 2019-06-15 21:12:23 --> Language Class Initialized
+INFO - 2019-06-15 21:12:23 --> Language Class Initialized
+INFO - 2019-06-15 21:12:23 --> Config Class Initialized
+INFO - 2019-06-15 21:12:23 --> Loader Class Initialized
+INFO - 2019-06-15 21:12:23 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:12:23 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:12:23 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:12:23 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:12:23 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:12:23 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:12:23 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:12:23 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+INFO - 2019-06-15 21:12:23 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:12:23 --> Model Class Initialized
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/User_model.php
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Uform_model.php
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/models/Posts_model.php
+INFO - 2019-06-15 21:12:23 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:12:23 --> Users MX_Controller Initialized
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admission/config/autoload.php
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/header.php
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/login.php
+DEBUG - 2019-06-15 21:12:23 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_portal/parts/footer.php
+INFO - 2019-06-15 21:12:23 --> Final output sent to browser
+DEBUG - 2019-06-15 21:12:23 --> Total execution time: 0.2670
+INFO - 2019-06-15 21:14:41 --> Config Class Initialized
+INFO - 2019-06-15 21:14:41 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:14:41 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:14:41 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:14:41 --> URI Class Initialized
+INFO - 2019-06-15 21:14:41 --> Router Class Initialized
+INFO - 2019-06-15 21:14:41 --> Output Class Initialized
+INFO - 2019-06-15 21:14:41 --> Security Class Initialized
+DEBUG - 2019-06-15 21:14:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:14:41 --> Input Class Initialized
+INFO - 2019-06-15 21:14:41 --> Language Class Initialized
+INFO - 2019-06-15 21:14:42 --> Language Class Initialized
+INFO - 2019-06-15 21:14:42 --> Config Class Initialized
+INFO - 2019-06-15 21:14:42 --> Loader Class Initialized
+INFO - 2019-06-15 21:14:42 --> Helper loaded: url_helper
+INFO - 2019-06-15 21:14:42 --> Helper loaded: form_helper
+INFO - 2019-06-15 21:14:42 --> Helper loaded: text_helper
+INFO - 2019-06-15 21:14:42 --> Helper loaded: download_helper
+INFO - 2019-06-15 21:14:42 --> Helper loaded: date_helper
+INFO - 2019-06-15 21:14:42 --> Database Driver Class Initialized
+INFO - 2019-06-15 21:14:42 --> Form Validation Class Initialized
+INFO - 2019-06-15 21:14:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2019-06-15 21:14:42 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admin/config/autoload.php
+INFO - 2019-06-15 21:14:42 --> Helper loaded: security_helper
+INFO - 2019-06-15 21:14:42 --> Upload Class Initialized
+INFO - 2019-06-15 21:14:42 --> Model Class Initialized
+DEBUG - 2019-06-15 21:14:42 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admin/models/Admin_model.php
+INFO - 2019-06-15 21:14:42 --> Controller Class Initialized
+DEBUG - 2019-06-15 21:14:42 --> Admin MX_Controller Initialized
+DEBUG - 2019-06-15 21:14:42 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\modules/admin/config/autoload.php
+DEBUG - 2019-06-15 21:14:42 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_admin/templates/header.php
+DEBUG - 2019-06-15 21:14:42 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_admin/login.php
+DEBUG - 2019-06-15 21:14:42 --> File loaded: C:\xxampp\htdocs\admission_hnaub\application\views\admission_admin/templates/footer.php
+INFO - 2019-06-15 21:14:42 --> Final output sent to browser
+DEBUG - 2019-06-15 21:14:42 --> Total execution time: 1.0871
+INFO - 2019-06-15 21:14:43 --> Config Class Initialized
+INFO - 2019-06-15 21:14:43 --> Hooks Class Initialized
+DEBUG - 2019-06-15 21:14:43 --> UTF-8 Support Enabled
+INFO - 2019-06-15 21:14:43 --> Utf8 Class Initialized
+INFO - 2019-06-15 21:14:43 --> URI Class Initialized
+INFO - 2019-06-15 21:14:43 --> Router Class Initialized
+INFO - 2019-06-15 21:14:43 --> Output Class Initialized
+INFO - 2019-06-15 21:14:43 --> Security Class Initialized
+DEBUG - 2019-06-15 21:14:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-06-15 21:14:43 --> Input Class Initialized
+INFO - 2019-06-15 21:14:43 --> Language Class Initialized
+ERROR - 2019-06-15 21:14:43 --> 404 Page Not Found: /index
