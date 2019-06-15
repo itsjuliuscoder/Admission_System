@@ -1,0 +1,204 @@
+
+/*-- Testimonial --*/
+.testimonial {
+	background: url("../images/contact.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+.testimonial h2 {
+	font-size: 50px;
+	text-align: center;
+	font-weight: 600;
+	color: #FFF;
+	margin: 70px 0 10px;
+	letter-spacing: 1px;
+}
+.testimonial h4 {
+	color: #EEE;
+	font-size: 25px;
+	font-weight: 600;
+	margin-top: 30px;
+	font-family: 'Raleway', sans-serif;
+}
+.testimonial .heading-underline {
+	background-color: #FFF;
+}
+.testimonial .da-slider {
+	height: 200px;
+}
+.testimonial .da-slide p {
+	font-family: 'Raleway', sans-serif;
+	color: #FFF;
+	font-size: 16px;
+	height: 80px;
+	overflow: hidden;
+	margin: 0;
+	width: 80%;
+	top: 60px;
+	text-align: center;
+	letter-spacing: 1px;
+	line-height: 30px;
+	padding-bottom: 15%;
+}
+.da-slide p span {
+	color: #FF367A;
+	font-weight: 700;
+	margin-left: 10px;
+}
+/*-- //Testimonial --*/
+
+
+/*-- Index-Page-Responsive-Code --*/
+
+@media screen and (max-width: 1920px) {
+	button.btn.btn-primary {
+		bottom: 151px;
+	}
+
+@media screen and (max-width: 1600px) {
+	button.btn.btn-primary {
+		bottom: 152px;
+	}
+}
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1366px) {
+
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 1024px) {
+	.feature-grids {
+		top: -100px;
+	}
+	button.btn.btn-primary {
+		bottom: 174px;
+	}
+
+}
+
+@media screen and (max-width: 991px) {
+}
+
+@media screen and (max-width: 966px) {
+
+}
+
+@media screen and (max-width: 853px) {
+
+	.testimonial h2 {
+		font-size: 45px;
+		margin-top: 50px;
+	}
+	.testimonial .da-slider {
+		height: 175px;
+	}
+	.portfolio {
+		padding: 50px 0 30px!important;
+	}
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 736px) {
+
+}
+
+@media screen and (max-width: 667px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
+}
+
+@media screen and (max-width: 603px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+@media screen and (max-width: 568px) {
+
+	.testimonial h2 {
+		font-size: 40px;
+		margin-top: 40px;
+	}
+	.testimonial h4 {
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 533px) {
+
+	.testimonial .da-slide p {
+		font-size: 14px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 414px) {
+	.testimonial .da-slide p {
+		height: 100px;
+		top: 50px;
+	}
+}
+
+@media screen and (max-width: 384px) {
+
+}
+
+@media screen and (max-width: 375px) {
+	button.btn.btn-primary {
+		bottom: 107px;
+	}
+	.testimonial .da-slide p {
+		line-height: 25px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+
+	.testimonial h4 {
+		font-size: 17px;
+	}
+	.subscribe {
+		width: 70%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+
+
+}
+
+/*-- //Index-Page-Responsive-Code --*/
+
+/*-- //Index-Page-Styling --*/
+
+
+
+
+}
+
+/*-- //Common-Responsive-Code --*/

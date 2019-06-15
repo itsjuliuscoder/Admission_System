@@ -1,0 +1,6 @@
+form input[type="file"] .file-styled {
+	background-color: #1873cc;
+	width: 100%;
+	border: none;
+	color: #fff;
+}
