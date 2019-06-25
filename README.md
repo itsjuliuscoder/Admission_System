@@ -31,10 +31,10 @@ Admin notification of registered users
 Admin notification of applied admission candidates 
 
 ## Getting Started 
-
+```
 Clone the git respository by running the command 
 https://github.com/itsjuliuscoder/Admission_System.git
-
+```
 ### Prerequities 
 
 You will need the following installed 
