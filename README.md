@@ -46,4 +46,6 @@ You will need the following installed
 
 - Install XAMPP/WAMP
 - Start the local server 
+- Open localhost/phpmyadmin
+- upload the admission_hnaub.sql 
 
