@@ -33,7 +33,7 @@ Admin notification of applied admission candidates
 ## Getting Started 
 ```
 Clone the git respository by running the command 
-https://github.com/itsjuliuscoder/Admission_System.git
+git clone https://github.com/itsjuliuscoder/Admission_System.git
 ```
 ### Prerequities 
 
